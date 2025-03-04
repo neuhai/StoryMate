@@ -7,7 +7,7 @@ Insights from Multi-Stakeholder Perspectives
         <img src="https://img.shields.io/badge/arXiv-2503.00590-B31B1B.svg?style=plastic&logo=arxiv" alt="arXiv">
     </a>
   	<a href="https://storymate.hailab.io/">
-      	<img src="https://img.shields.io/badge/StoryMate-Demo-green" alt="demo">
+      	<img src="https://img.shields.io/badge/StoryMate-Demo-green?style=plastic" alt="demo">
   	</a>
     <a href="https://opensource.org/licenses/MIT">
         <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=plastic" alt="License: MIT">
